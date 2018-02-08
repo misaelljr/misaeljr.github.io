@@ -14,7 +14,7 @@ tags: [sobre, interesses]
 
 <p align="justify">Realizei minha graduação em Bacharelado em Ciência da Computação pela <b><a href="http://www.uespi.br/site/">Universidade Estadual do Piauí (UESPI)</a></b> entre 2010-2014. Durante a graduação, fiz IC (Iniciação Científica) na área de Internet das Coisas, desenvolvendo soluções, teóricas e práticas, para o acompanhamento remoto de pessoas com necessidades médicas especiais e de cuidados contínuos. Durante a condução do trabalho, eu desenvolvi algoritmos para detecção de quedas em pacientes em tratamento. </p>
 
-<b>Temas de Interesse (Trabalho):</b>
+<b>Temas de Interesse:</b>
 
  1. Engenharia de Software
  2. Teste de Software
