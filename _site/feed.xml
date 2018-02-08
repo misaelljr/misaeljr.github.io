@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misaeljr</title>
+    <atom:link href="/misaeljr/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://localhost:4000/misaeljr/</link>
+    <description></description>
+    <pubDate>Thu, 08 Feb 2018 20:09:03 -0200</pubDate>
+    
+      <item>
+        <title>Olá Mundo</title>
+        <link>/misaeljr/2018/02/08/ola-mundo.html</link>
+        <guid isPermaLink="true">/misaeljr/2018/02/08/ola-mundo.html</guid>
+        <description>&lt;h1 id=&quot;olá-mundo&quot;&gt;Olá Mundo&lt;/h1&gt;
+
+&lt;p align=&quot;justify&quot;&gt; Recentemente criei este blog como um meio de divulgação dos traabalhos em que estou envolvidos. Além disso, pretendo utilizar este espaço como um meio de compartilhar conhecimentos como, por exemplo: linguagens de programação, API's e resultados obtidos por meio dos trabalhos desenvolvidos.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt; Em um primeiro momento, pensei escrever apenas em inglês. No entanto, com certeza, muitos erros seriam expostos (kkkk) e eu não conseguiria me expressar da forma que desejaria. Sendo assim, preferi escrever apenas em português e, quem sabe, um dia alterar apenas para inglês.&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt; Disponibilizo os links para acesso aos meus perfis nas redes sociais, assim como também a minha conta no &lt;a href=&quot;https://github.com/misaelljr/&quot;&gt;Github&lt;/a&gt;. Eu ficaria extremamente grato em receber sugestões e parcerias para desevolvimento dos meus trabalhos ou outros (quem sabe).&lt;/p&gt;
+
+&lt;p align=&quot;justify&quot;&gt; Para mais informações, por favor, siga a página &lt;a href=&quot;http://misaeljr.github.io/sobre.html&quot;&gt;&quot;Sobre&quot;&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Feb 2018 00:00:00 -0200</pubDate>
+      </item>
+    
+  </channel>
+</rss>

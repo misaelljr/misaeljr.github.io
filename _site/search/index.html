@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    
+    <!-- JQuery (used for bootstrap and jekyll search) -->
+    <script src="/misaeljr/assets/js/jquery-3.2.1.min.js" ></script>
+    
+    <!-- Main JS (navbar.js and katex_init.js)-->
+    <script defer=true src="/misaeljr/assets/js/main.min.js"></script>
+    
+    <!-- CSS -->
+    <link rel="stylesheet" href="/misaeljr/assets/css/main.css">
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/misaeljr/assets/favicon.ico" type="image/x-icon">
+
+    <!-- Canonical -->
+    <link rel="canonical" href="http://localhost:4000/misaeljr/search/">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/atom+xml" title="Misaeljr" href="http://localhost:4000//misaeljr//feed.xml"/>
+
+    <!-- Font Awesome -->
+    <!-- <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> -->
+    <link rel="stylesheet" type="text/css" href="/misaeljr/assets/css/font-awesome.min.css">
+
+    <!-- Google Fonts -->
+    
+    <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,700italic,400italic" rel="stylesheet" type="text/css"> 
+    
+
+    <!-- KaTeX 0.8.3 -->
+    
+    <!--<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.8.3/katex.min.js"></script> -->
+    <link rel="stylesheet" type="text/css" href="/misaeljr/assets/css/katex.min.css">
+    <script src="/misaeljr/assets/js/katex.min.js">
+    </script>
+    
+
+    <!-- Google Analytics -->
+    
+    
+    <!-- seo tags -->
+    <!-- Begin Jekyll SEO tag v2.4.0 -->
+<title>Busca</title>
+<meta name="generator" content="Jekyll v3.7.2" />
+<meta property="og:title" content="Busca" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="http://localhost:4000/misaeljr/search/" />
+<meta property="og:url" content="http://localhost:4000/misaeljr/search/" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/misaeljr/search/","headline":"Busca","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <!-- Manual seo tags -->
+    <!--
+    <title>Busca | Misaeljr</title>
+    <meta name="description" content="">
+    -->
+</head>
+
+  <body>
+    <header class="site-header">
+    
+    <!-- Logo and title -->
+	<div class="branding">
+		<a href="/misaeljr/">
+			<img class="avatar" src="/misaeljr/images/logo.jpg" alt=""/>
+		</a>
+
+		<h1 class="site-title">
+			<a href="/misaeljr/">Misaeljr</a>
+		</h1>
+	</div>
+    
+    <!-- Toggle menu -->
+    <nav class="clear">
+    <a id="pull" class="toggle" href="#">
+    <i class="fa fa-bars fa-lg"></i>
+    </a>
+    
+    <!-- Menu -->
+    <ul>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li>
+            <a class="clear" href="/misaeljr/sobre/">
+                Sobre
+            </a>
+        </li>
+        
+        
+        
+         
+        
+        <li>
+            <a class="clear" href="http://localhost:4000/misaeljr/portfolio">
+                Portfolio
+            </a>
+        </li>
+        
+        
+        <li>
+            <a class="clear" href="http://localhost:4000/misaeljr/search">
+                <i class="fa fa-search" aria-hidden="true"></i>
+            </a>
+        </li>
+        
+        
+        <li>
+            <a class="clear" href="http://localhost:4000/misaeljr/tags">
+                <i class="fa fa-tags" aria-hidden="true"></i>
+            </a>
+        </li>
+        
+        
+    </ul>
+        
+	</nav>
+</header>
+
+    <div class="content">
+      <article class="feature-image">
+  <header id="main" style="background-image: url('/misaeljr/assets/img/pexels/search-map.jpeg')">
+    <h1 id="Busca" class="title">
+        Busca
+    </h1>
+    
+    
+    <h2 class="subtitle">O que você está procurando?</h2>
+    
+      
+  </header>
+  <section class="post-content"><!-- Html Elements for Search -->
+<input type="text" id="search-input" placeholder="Enter keywords..." class="search-bar">
+<br>
+<br>
+<ul id="results-container"></ul>
+
+<section>
+    <!-- Script pointing to jekyll-search.js -->
+    <script src="/misaeljr/assets/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: [
+                    
+                     
+                        {
+                          "title"    : "Olá Mundo",
+                          "category" : "",
+                          "tags"     : " hello_world",
+                          "url"      : "/misaeljr/2018/02/08/ola-mundo.html",
+                          "date"     : "February 8, 2018",
+                          "content"  : "Olá Mundo Recentemente criei este blog como um meio de divulgação dos traabalhos em que estou envolvidos. Além disso, pretendo utilizar este espaço como um meio de compartilhar conhecimentos como, por exemplo: linguagens de programação, API's e resultados obtidos por meio dos trabalhos desenvolvidos. Em um primeiro momento, pensei escrever apenas em inglês. No entanto, com certeza, muitos erros seriam expostos (kkkk) e eu não conseguiria me expressar da forma que desejaria. Sendo assim, preferi escrever apenas em português e, quem sabe, um dia alterar apenas para inglês. Disponibilizo os links para acesso aos meus perfis nas redes sociais, assim como também a minha conta no Github. Eu ficaria extremamente grato em receber sugestões e parcerias para desevolvimento dos meus trabalhos ou outros (quem sabe). Para mais informações, por favor, siga a página \"Sobre\"."
+                        } 
+                     ,
+                     
+                       {
+                         
+                            "title"    : "Suporte à tomada de decisão sensível ao contexto para sistemas ubíquos de saúde (U-HEALTH) (2012 -- 2013)",
+                            "category" : "",
+                            "tags"     : " pesquisa, ic, uespi",
+                            "url"      : "/misaeljr/portfolio/uespi",
+                            "date"     : "May 8, 2012",
+                            "content"  : "Finalidade: Condução de um estudo aprofundado do impacto da qualidade da informação de contexto em sistemas ubíquos de saúde, avaliando o impacto em um serviço de saúde real. Objetivos: -- Construção de um ambiente ubíquo de testes (testbed) para o acompanhamento remoto de pessoas com necessidades médicas especiais e de cuidados contínuos; -- Implantação de um serviço para a detecção de quedas de pessoas idosas, a fim de alertar a equipe médica remotas sobre possíveis quedas, reduzindo os riscos associados; -- Suporte à análise e controle de QoC sobre as informações contextuais utilizadas nas operações e regras sensíveis ao contexto.Publicações: -- [BEZERRA, V. ; JUNIOR, M. C. ; VALERIA, O. ; NETO, C. D. ; LEAL, L. ; LEMOS, M. ; CARVALHO, C. G. ; FILHO, J. B. ; HOLANDA, R. ; AGOULMINE, N. . A Quality-Aware and Energy-Efficient Context Management Framework for Ubiquitous Systems. In: 2014 IEEE 28th International Conference on Advanced Information Networking and Applications (AINA), 2014, Victoria. p. 568.] -- [BEZERRA, V. ; JUNIOR, M. C. ; VALERIA, O. ; NETO, C. D. ; LEAL, L. ; LEMOS, M. ; CARVALHO, C. G. ; FILHO, J. B. ; HOLANDA, R. ; AGOULMINE, N.. An Energy-Efficient Context Management Framework for Ubiquitous Systems. In: 2013 IEEE 10th International Conference on Ubiquitous Intelligence &amp; Computing and 2013 IEEE 10th International Conference on Autonomic &amp; Trusted Computing (UIC/ATC), 2013, Italy. p. 697.]Participantes:– Misael Jr (lattes) – eu :)– José Torres (lattes)– Wesley de Araújo (lattes)– Prof. Dr. Bringel Filho (lattes)– Prof. Dr. Carlos Giovanni (lattes)"
+                         
+                       } ,
+                     
+                       {
+                         
+                            "title"    : "Automatização de oráculos de teste para imagens médicas tridimensionais -- (2015 -- 2017)",
+                            "category" : "",
+                            "tags"     : " pesquisa, mestrado, icmc, usp",
+                            "url"      : "/misaeljr/portfolio/icmc",
+                            "date"     : "September 3, 2015",
+                            "content"  : "Finalidade: Fornecer alternativas para uma avaliação criteriosa, sistemática e produtiva da qualidade de sistemas com saídas que processem ou gerem imagens sintéticas tridimensionais de vasos sanguíneos, por meio de oráculos automatizados. Objetivos: -- Definir o modo como os conceitos de CBIR (extração de características) podem ser explorados para, automaticamente, fornecerem indícios sobre a correção de sistemas que processem imagens sintéticas tridimensionais;  -- Selecionar as aplicações a serem abordadas na pesquisa. Inicialmente serão considerados sistemas que gerem ou processem imagens de vasos sintéticos tridimensionais; -- Documentar as características e particularidades desse domínio de imagens que possam ser utilizadas na avaliação das saídas produzidas por esses tipos de aplicações; -- Estabelecer um arcabouço para que novos sistemas tridimensionais sejam inseridos no contexto do O-FIm/CO.Publicações:  -- [JÚNIOR, M. C.; OLIVEIRA, R. A. P. ; VALVERDE, M. A. G. ; JACKOWSKI, M. P. ; NUNES, F. L. S. ; DELAMARO, M. E. Feature-Based Test Oracles to Categorize Synthetic 3D and 2D Images of Blood Vessels. In: the 2nd Brazilian Symposium on Systematic and Automated Software Testing - SAST, 2017, Fortaleza. New York: ACM Press, 2017. p. 1]  -- [JUNIOR, M. C.; DELAMARO, M. D. . Automatização de oráculos de teste para o processamento de imagens médicas de modelos tridimensionais. In: Congresso Brasileiro de Software: Teoria e Prática (CBSoft), 2016, Maringá, PR. VI WORKSHOP DE TESES E DISSERTAÇÕES DO CBSOFT (WTDSOFT 2016), 2016. p. 35-41.]Participantes:– Misael Jr (lattes) – eu :)– Prof. Dr. Rafael Oliveira (lattes)– Miguel Valverde (lattes)– Prof. Dra. Fátima Nunes (lattes)– Prof. Dr. Marcel P. Jackowski (lattes)– Prof. Dr. Márcio E. Delamaro (lattes)"
+                         
+                       } ,
+                     
+                       {
+                         
+                            "title"    : "Experimentação de Abordagens de Teste para SAs (2017 -- atual)",
+                            "category" : "",
+                            "tags"     : " pesquisa, projeto_tecnico, ufscar, dc",
+                            "url"      : "/misaeljr/portfolio/ufscar",
+                            "date"     : "August 1, 2017",
+                            "content"  : "Finalidade: Condução de experimentos com a abordagem de teste proposta, para obter dados que subsidiem a avaliação e possível refinamento da referida abordagem. Objetivos:  -- Compor e caracterizar um conjunto de SAs que serão empregados nos estudos experimentais de avaliação da abordagem de teste definida neste projeto;   -- Planejar e executar experimentos com as abordagens de teste consideradas, sendo elas a abordagem proposta neste projeto e outras já relatadas na literatura;   -- Elencar possíveis melhorias à abordagem de teste proposta neste projeto com o intuito de aumentar sua eficiência e efetividade em revelar defeitos em SAs. Participantes:– Misael Jr (lattes) – eu :)– Bento Siqueira (lattes)– Prof. Dr. Ricardo Menotti (lattes)– Prof. Dr. Fabiano Ferrari (lattes)– Prof. Dr. Valter Camargo (lattes)"
+                         
+                       } 
+                     
+                    
+                  ],
+            searchResultTemplate: '<div class="search-title"><a href="{url}"><h3> {title}</h3></a><div class="meta">{date} <div class="right"><i class="fa fa-tag"></i> {tags}</div></div><p>{category}</p></div><hr> ',
+            noResultsText: 'No results found',
+            limit: 10,
+            fuzzy: true,
+            exclude: []
+        })
+    </script>
+</section>
+</section>
+    
+    
+  <!-- Tag list for portfolio -->
+  
+  
+
+
+
+    
+</article>
+
+    </div>
+    
+<footer class="site-footer">
+    <p class="text">Copyright 2018 Misael Jr. Todos os direitos reservados.
+</p>
+            <div class="footer-icons">
+                <ul>
+                <!-- Social icons from Font Awesome, if enabled -->
+                
+
+
+<li>
+	<a href="mailto:misaeljr@usp.br" title="Email">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://www.facebook.com/misaelljr" title="Siga no Facebook">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+<li>
+	<a href="https://github.com/misaelljr" title="Siga no GitHub">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+<li>
+	<a href="http://instagram.com/misaellj" title="Siga no Instagram">
+		<span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+	<a href="https://twitter.com/MisaellJr" title="Siga no Twitter" class="type">
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-circle fa-stack-2x"></i>
+            <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+        </span>
+	</a>
+</li>
+
+
+
+
+
+
+
+
+                </ul>
+            </div>
+</footer>
+
+
+
+
+  </body>
+</html>
