@@ -3,7 +3,7 @@ layout: post
 title: Experimentação de Abordagens de Teste para SAs (2017 -- atual)
 img: "images/ufscar.jpg"
 date: 01-08-2017
-feature-img: "images/dc_ufscar.jpg"
+feature-img: "images/dc_ufscar.JPG"
 tags: [pesquisa, projeto_tecnico, ufscar, dc]
 ---
 
