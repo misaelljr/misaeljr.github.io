@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/misaeljr"
-url: "https://misaeljr.github.io"
+baseurl: "/misaelljr"
+url: "https://misaelljr.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
