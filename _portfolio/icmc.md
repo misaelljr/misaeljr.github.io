@@ -29,11 +29,11 @@ tags: [pesquisa, mestrado, icmc, usp]
 
 #### Participantes:
 
--- Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- eu :)
+-- MSc. Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- eu :)
 
 -- Prof. Dr. Rafael Oliveira (<b><a href="http://lattes.cnpq.br/0793753941171478">lattes</a></b>)
 
--- Miguel Valverde (<b><a href="http://lattes.cnpq.br/3447755852902955">lattes</a></b>)
+-- Dr. Miguel Valverde (<b><a href="http://lattes.cnpq.br/3447755852902955">lattes</a></b>)
 
 -- Prof. Dra. Fátima Nunes (<b><a href="http://lattes.cnpq.br/8626964624628522">lattes</a></b>)
 
