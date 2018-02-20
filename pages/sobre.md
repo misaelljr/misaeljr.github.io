@@ -26,5 +26,5 @@ tags: [sobre, interesses]
 
 <b>Endereço:</b>
 
-<p align="justify"> Instituto de Ciências Matemáticas e Computação -- Universidade de São Paulo (ICMC/USP) -- Av. Trabalhador São-Carlense, 400 – Centro CEP: 13566-590 – São Carlos – SP – Brazil.</p> 
+<p align="justify"> Instituto de Ciências Matemáticas e de Computação -- Universidade de São Paulo (ICMC/USP) -- Av. Trabalhador São-Carlense, 400 – Centro CEP: 13566-590 – São Carlos – SP – Brazil.</p> 
  
