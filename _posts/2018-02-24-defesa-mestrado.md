@@ -12,7 +12,7 @@ tags: [defesa_mestrado]
 
 <p align="justify">Foram quase 3 anos de muito trabalho para concluir o mestrado. É meus amigos, não foi fácil. De qualquer forma, foi o maior <b> APRENDIZADO</b> da minha vida. Saber que algo que você pesquisou, desenvolveu e resolveu (nem tanto rsrsrs) foi "agraciado" e elogiado pela banca, não tem preço. Os dias que antecederam a defesa foi um verdadeiro filme, às vezes de terror e outras vezes de drama (rsrsrs). Foi muito interessante poder avaliar as situações que passei desde o inicio do mestrado até chegar naquele momento da defesa. Isso me faz lembrar dos momentos no inicio do mestrado quando eu me perguntava: "o que eu tô fazendo aqui?". E hoje eu me respondo a mim mesmo: "é exatamente aqui que eu devo estar".</p>
 
-<p align="justify">Durante o mestrado eu trabalhei com automatização de oráculos de teste para sistemas que processem imagens médicas tridimensionais de vasos sanguíneos. Em breve irei adicionar a url para acesso a minha dissertação. Entretanto, já disponibilizo os <a href="https://misaelljr.github.io/docs/slides_defesa.pdf">slides</a> utilizados na defesa de mestrado.</p>
+<p align="justify">Durante o mestrado eu trabalhei com automatização de oráculos de teste para sistemas que processem imagens médicas tridimensionais de vasos sanguíneos. Em breve irei adicionar a url para acesso a minha dissertação. Entretanto, já disponibilizo os <a href="https://misaelljr.github.io/images/slides_defesa.pdf">slides</a> utilizados na defesa de mestrado.</p>
 
 <p align="justify">A foto abaixo foi tirada momentos após a aprovação da defesa com os seguintes professores que compuseram a banca:</p>
 
