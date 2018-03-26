@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Sobre
+title: About
 permalink: /sobre/
 feature-img: "assets/img/pexels/circuit.jpeg"
-tags: [sobre, interesses]
+tags: [about, interests]
 ---
 
 ![Image of a glass on a book]({{ site.baseurl }}/images/sast.jpg)
