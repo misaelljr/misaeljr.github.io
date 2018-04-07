@@ -12,7 +12,7 @@ tags: [about, interests]
 
 <p align="justify">During the master's degree, I worked with automation of test oracles developing evaluation approaches for systems that process medical images in three-dimensional models. Test oracles are methods that judge whether the output of a system under testing is in accordance with the expected output. The work is inserted in the area of Software Testing and was finalized in 2017. =) </p>
 
-<p align="justify">I graduated in Bachelor of Science in Computer Science from the <b><a href="http://www.uespi.br/site/">State University of Piaui (UESPI)</a></b>between 2010-2014. During graduation, I did SI (Scientific Initiation) in Internet of Things, developing solutions, theoretical and practical, for the remote monitoring of people with special medical needs and continuous care. During SI, I developed algorithms for detecting falls in patients being treated.</p>
+<p align="justify">I graduated in Bachelor of Science in Computer Science from the <b><a href="http://www.uespi.br/site/">State University of Piaui (UESPI)</a></b> between 2010-2014. During graduation, I did SI (Scientific Initiation) in Internet of Things, developing solutions, theoretical and practical, for the remote monitoring of people with special medical needs and continuous care. During SI, I developed algorithms for detecting falls in patients being treated.</p>
 
 <b>Topics of Interest:</b>
 
