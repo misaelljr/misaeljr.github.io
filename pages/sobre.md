@@ -8,23 +8,22 @@ tags: [about, interests]
 
 ![Image of a glass on a book]({{ site.baseurl }}/images/sast.jpg)
 
-<p align="justify"> Sou mestre em Ciências de Computação e Matemática Computacional (PPG-CCMC) pelo <b><a href="http://www.icmc.usp.br/">Instituto de Ciências Matemáticas e de Computação (ICMC) da Universidade de São Paulo (USP)</a></b> com orientação do <b><a href="http://lattes.cnpq.br/2844974351441051">Prof. Dr. Márcio Delamaro</a></b>, desenvolvendo pesquisas na área de Engenharia de Software. </p>
+<p align="justify"> I am MSc in Computer Science and Computational Mathematics (PPG-CCMC) from the <b><a href="http://www.icmc.usp.br/">Institute of Mathematical and Computer Sciences (ICMC) of the University of Sao Paulo (USP)</a></b> with the guidance of <b><a href="http://lattes.cnpq.br/2844974351441051">Prof. Dr. Márcio Delamaro (advisor)</a></b>, developing investigations and studies in Software Engineering.</p>
 
-<p align="justify">Durante o mestrado eu trabalhei com automatização de oráculos de teste desenvolvendo abordagens de avaliação para sistemas que processem/gerem imagens médicas em modelos tridimensionais. Oráculos de teste são métodos responsáveis em julgar se a saída de um sistema em teste está de acordo com a saída esperada. O trabalho está inserido na área de Teste de Software e foi finalizado no final de 2017 =) </p>
+<p align="justify">During the master's degree, I worked with automation of test oracles developing evaluation approaches for systems that process medical images in three-dimensional models. Test oracles are methods that judge whether the output of a system under testing is in accordance with the expected output. The work is inserted in the area of Software Testing and was finalized in 2017. =) </p>
 
-<p align="justify">Realizei minha graduação em Bacharelado em Ciência da Computação pela <b><a href="http://www.uespi.br/site/">Universidade Estadual do Piauí (UESPI)</a></b> entre 2010-2014. Durante a graduação, fiz IC (Iniciação Científica) na área de Internet das Coisas, desenvolvendo soluções, teóricas e práticas, para o acompanhamento remoto de pessoas com necessidades médicas especiais e de cuidados contínuos. Durante a condução do trabalho, eu desenvolvi algoritmos para detecção de quedas em pacientes em tratamento. </p>
+<p align="justify">I graduated in Bachelor of Science in Computer Science from the <b><a href="http://www.uespi.br/site/">State University of Piaui (UESPI)</a></b>between 2010-2014. During graduation, I did SI (Scientific Initiation) in Internet of Things, developing solutions, theoretical and practical, for the remote monitoring of people with special medical needs and continuous care. During SI, I developed algorithms for detecting falls in patients being treated.</p>
 
-<b>Temas de Interesse:</b>
+<b>Topics of Interest:</b>
 
- 1. Engenharia de Software
- 2. Teste de Software
- 3. Oráculos de Teste
- 4. Teste Metamórfico
- 5. Desenvolvimento Mobile
- 6. Linguagens de Programação
- 
+ 1. Software Engineering
+ 2. Software Testing
+ 3. Test Oracles
+ 4. Metamorphic Testing
+ 5. Mobile Development
+ 6. Programming Languages
 
-<b>Endereço:</b>
+<b>Address:</b>
 
-<p align="justify"> Instituto de Ciências Matemáticas e de Computação -- Universidade de São Paulo (ICMC/USP) -- Av. Trabalhador São-Carlense, 400 – Centro CEP: 13566-590 – São Carlos – SP – Brazil.</p> 
+<p align="justify"> Institute of Mathematical and Computer Sciences - University of Sao Paulo (ICMC/USP) -- Av. Trabalhador São-Carlense, 400 – Centro CEP: 13566-590 – São Carlos – SP – Brazil.</p> 
  
