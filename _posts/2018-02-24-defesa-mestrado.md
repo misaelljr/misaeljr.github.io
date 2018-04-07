@@ -3,7 +3,7 @@ layout: post
 title: Finally, master :)
 feature-img: "images/defesa_mestrado1.jpeg"
 thumbnail: "images/mestre.jpg"
-tags: [defesa_mestrado]
+tags: [master defesa]
 ---
 
 <p align="justify"> ♫ We are the champions, my friends ♫ </p>
