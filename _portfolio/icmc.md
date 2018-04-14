@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Automatização de oráculos de teste para imagens médicas tridimensionais -- (2015 -- 2017)
+title: Automation of test oracles for three-dimensional medical images -- (2015 -- 2017)
 img: "images/icmc.jpg"
 feature-img: "images/icmc.jpg"
 date: 03-09-2015
@@ -8,17 +8,17 @@ tags: [pesquisa, mestrado, icmc, usp]
 ---
 
 #### Finalidade: 
-<p align="justify"> Fornecer alternativas para uma avaliação criteriosa, sistemática e produtiva da qualidade de sistemas com saídas que processem ou gerem imagens sintéticas tridimensionais de vasos sanguíneos, por meio de oráculos automatizados. </p>
+<p align="justify"> Provide alternatives for a careful, systematic and productive evaluation of the quality of systems with outputs that process or generate three-dimensional synthetic images of blood vessels through automated oracles. </p>
 
 #### Objetivos: 
 
-  <p align="justify"> -- Definir o modo como os conceitos de CBIR (extração de características) podem ser explorados para, automaticamente, fornecerem indícios sobre a correção de sistemas que processem imagens sintéticas tridimensionais;</p>
+  <p align="justify"> -- Define how CBIR (feature extraction) concepts can be exploited to automatically provide evidence about the correctness of systems that process three-dimensional synthetic images;</p>
 
-  <p align="justify">  -- Selecionar as aplicações a serem abordadas na pesquisa. Inicialmente serão considerados sistemas que gerem ou processem imagens de vasos sintéticos tridimensionais;</p>
+  <p align="justify">  -- Select the applications to be covered in the search. Initially, systems that generate or process images of three-dimensional synthetic vessels;</p>
   
-  <p align="justify"> -- Documentar as características e particularidades desse domínio de imagens que possam ser utilizadas na avaliação das saídas produzidas por esses tipos de aplicações;</p>
+  <p align="justify"> -- Document the characteristics and particularities of this domain images that can be used in the evaluation of outputs produced by these types of applications;</p>
 
-  <p align="justify"> -- Estabelecer um arcabouço para que novos sistemas tridimensionais sejam inseridos no contexto do O-FIm/CO.</p>
+  <p align="justify"> -- Establish a framework for new three-dimensional systems to be inserted in the context of O-FIm/CO.</p>
 
 #### Publicações:
 
@@ -29,16 +29,16 @@ tags: [pesquisa, mestrado, icmc, usp]
 
 #### Participantes:
 
--- MSc. Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- eu :)
+-- MSc. Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
 
 -- Prof. Dr. Rafael Oliveira (<b><a href="http://lattes.cnpq.br/0793753941171478">lattes</a></b>)
 
 -- Dr. Miguel Valverde (<b><a href="http://lattes.cnpq.br/3447755852902955">lattes</a></b>)
 
--- Prof. Dra. Fátima Nunes (<b><a href="http://lattes.cnpq.br/8626964624628522">lattes</a></b>)
-
 -- Prof. Dr. Marcel P. Jackowski (<b><a href="http://lattes.cnpq.br/0926213060635986">lattes</a></b>)
 
--- Prof. Dr. Márcio E. Delamaro (<b><a href="http://lattes.cnpq.br/2844974351441051">lattes</a></b>)
+-- Prof. Dra. Fátima Nunes (<b><a href="http://lattes.cnpq.br/8626964624628522">lattes</a></b>)
+
+-- Prof. Dr. Márcio E. Delamaro (<b><a href="http://lattes.cnpq.br/2844974351441051">lattes</a></b>) -- Advisor
 
 
