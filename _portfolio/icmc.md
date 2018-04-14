@@ -4,7 +4,7 @@ title: Automation of test oracles for three-dimensional medical images -- (2015 
 img: "images/icmc.jpg"
 feature-img: "images/icmc.jpg"
 date: 03-09-2015
-tags: [pesquisa, mestrado, icmc, usp]
+tags: [research, master, icmc, usp]
 ---
 
 #### Finalidade: 
