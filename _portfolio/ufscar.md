@@ -1,32 +1,32 @@
 ---
 layout: post
-title: Experimentação de Abordagens de Teste para SAs (2017 -- atual)
+title: Experimenting by Test Approaches for SAs (2017 -- atual)
 img: "images/ufscar.JPG"
 date: 01-08-2017
 feature-img: "images/dc_ufscar.jpg"
-tags: [pesquisa, projeto_tecnico, ufscar, dc]
+tags: [research, technical_project, ufscar]
 ---
 
-#### Finalidade: 
-<p align="justify"> Condução de experimentos com a abordagem de teste proposta, para obter dados que subsidiem a avaliação e possível refinamento da referida abordagem. </p>
+#### Goal: 
+<p align="justify"> Conducting experiments with the proposed test approach, to obtain data that support the evaluation and possible refinement of the said approach. </p>
 
-#### Objetivos: 
+#### Objectives: 
 
-  <p align="justify">  -- Compor e caracterizar um conjunto de SAs que serão empregados nos estudos experimentais de avaliação da abordagem de teste definida neste projeto; </p>
+  <p align="justify">  -- Compose and characterize a set of SAs that will be used in experimental studies evaluating the test approach outlined in this project; </p>
 
-  <p align="justify">  -- Planejar e executar experimentos com as abordagens de teste consideradas, sendo elas a abordagem proposta neste projeto e outras já relatadas na literatura; </p>
+  <p align="justify">  -- Design and execute experiments with the test approaches considered, being the approach proposed in this project and others already reported in the literature; </p>
   
-  <p align="justify">  -- Elencar possíveis melhorias à abordagem de teste proposta neste projeto com o intuito de aumentar sua eficiência e efetividade em revelar defeitos em SAs. </p>
+  <p align="justify">  -- List possible improvements to the test approach proposed in this project in order to increase its efficiency and effectiveness in revealing SA defects. </p>
 
-#### Participantes:
+#### Participants:
 
--- Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- eu :)
+-- Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
 
 -- Bento Siqueira (<b><a href="http://lattes.cnpq.br/3238780932820205">lattes</a></b>)
 
 -- Prof. Dr. Ricardo Menotti (<b><a href="http://lattes.cnpq.br/2509766431540422">lattes</a></b>)
 
--- Prof. Dr. Fabiano Ferrari (<b><a href="http://lattes.cnpq.br/3154345471250570">lattes</a></b>)
+-- Prof. Dr. Fabiano Ferrari (<b><a href="http://lattes.cnpq.br/3154345471250570">lattes</a></b>) -- Advisor
 
--- Prof. Dr. Valter Camargo (<b><a href="http://lattes.cnpq.br/6809743774407662">lattes</a></b>)
+-- Prof. Dr. Valter Camargo (<b><a href="http://lattes.cnpq.br/6809743774407662">lattes</a></b>) -- Advisor
 
