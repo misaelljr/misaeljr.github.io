@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Children's Police of Avelino Lopes-PI :)
+title: Children's Police of Avelino Lopes-PI
 feature-img: "images/police1.jpg"
 thumbnail: "images/police1.jpg"
 tags: [children_police]
