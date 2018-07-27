@@ -18,4 +18,4 @@ tags: [children_police]
 
 <p align="justify">I hope, soon, to return to Avelino Lopes and talk more with the children. Also, I'm working on more subjects that might be of interest to them, such as fake new and smarrphone usage in everyday life.</p>
 
-![Image of a glass on a book]({{ site.baseurl }}/images/presente.jpg)
+![Image of a glass on a book]({{ site.baseurl }}/images/presente.PNG)
