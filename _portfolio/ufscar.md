@@ -30,3 +30,7 @@ tags: [research, technical_project, ufscar]
 
 -- Prof. Dr. Valter Camargo (<b><a href="http://lattes.cnpq.br/6809743774407662">lattes</a></b>) -- Advisor
 
+#### Publications:
+
+  <p align="justify"> -- [SIQUEIRA, B. R. ; JUNIOR, M. C. ; FERRARI, F. C. ; SANTIBÁÑEZ, D. S. M ; MENOTTI, R. ; CAMARGO, V. V. . Experimenting with a Multi-Approach Testing Strategy for Adaptive Systems. In: Simpósio Brasileiro de Qualidade de Software (SBQS), 2018, Curitiba, Brazil.]</p>
+
