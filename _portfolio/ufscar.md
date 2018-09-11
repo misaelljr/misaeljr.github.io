@@ -17,6 +17,10 @@ tags: [research, technical_project, ufscar]
   <p align="justify">  -- Design and execute experiments with the test approaches considered, being the approach proposed in this project and others already reported in the literature; </p>
   
   <p align="justify">  -- List possible improvements to the test approach proposed in this project in order to increase its efficiency and effectiveness in revealing SA defects. </p>
+  
+#### Publications:
+
+  <p align="justify"> -- [SIQUEIRA, B. R. ; JUNIOR, M. C. ; FERRARI, F. C. ; SANTIBÁÑEZ, D. S. M ; MENOTTI, R. ; CAMARGO, V. V. . Experimenting with a Multi-Approach Testing Strategy for Adaptive Systems. In: Simpósio Brasileiro de Qualidade de Software (SBQS), 2018, Curitiba, Brazil.]</p>
 
 #### Participants:
 
@@ -29,8 +33,3 @@ tags: [research, technical_project, ufscar]
 -- Prof. Dr. Fabiano Ferrari (<b><a href="http://lattes.cnpq.br/3154345471250570">lattes</a></b>) -- Advisor
 
 -- Prof. Dr. Valter Camargo (<b><a href="http://lattes.cnpq.br/6809743774407662">lattes</a></b>) -- Advisor
-
-#### Publications:
-
-  <p align="justify"> -- [SIQUEIRA, B. R. ; JUNIOR, M. C. ; FERRARI, F. C. ; SANTIBÁÑEZ, D. S. M ; MENOTTI, R. ; CAMARGO, V. V. . Experimenting with a Multi-Approach Testing Strategy for Adaptive Systems. In: Simpósio Brasileiro de Qualidade de Software (SBQS), 2018, Curitiba, Brazil.]</p>
-
