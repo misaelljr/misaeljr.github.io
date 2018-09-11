@@ -27,9 +27,9 @@ tags: [pesquisa, ic, uespi]
 
 #### Participants:
 
--- Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
+-- Phd Student Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
 
--- José Torres (<b><a href="http://lattes.cnpq.br/9861146782162614">lattes</a></b>)
+-- Phd Student José Torres (<b><a href="http://lattes.cnpq.br/9861146782162614">lattes</a></b>)
 
 -- Wesley de Araújo (<b><a href="http://lattes.cnpq.br/0059433554725987">lattes</a></b>)
 
