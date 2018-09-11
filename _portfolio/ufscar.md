@@ -24,9 +24,9 @@ tags: [research, technical_project, ufscar]
 
 #### Participants:
 
--- Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
+-- Phd Student Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
 
--- Bento Siqueira (<b><a href="http://lattes.cnpq.br/3238780932820205">lattes</a></b>)
+-- Phd Student Bento Siqueira (<b><a href="http://lattes.cnpq.br/3238780932820205">lattes</a></b>)
 
 -- Prof. Dr. Ricardo Menotti (<b><a href="http://lattes.cnpq.br/2509766431540422">lattes</a></b>)
 
