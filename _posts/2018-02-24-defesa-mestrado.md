@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finally, master :)
+title: Finally, MSc :)
 feature-img: "images/defesa_mestrado1.jpeg"
 thumbnail: "images/mestre.jpg"
 tags: [master defesa]
@@ -18,7 +18,7 @@ tags: [master defesa]
 
 <ul>
  <li> Profa. Dra. Simone Senger Souza (ICMC-USP) </li>
- <li> Prof. Dr. Márcio Delamaro (Orientador) </li>
+ <li> Prof. Dr. Márcio Delamaro (Advisor) </li>
  <li> Prof. Dr. Auri Vincenzi (UFSCar) </li>
  <li> Prof. Dr. Helton Biscaro (EACH-USP) </li>
 </ul>
