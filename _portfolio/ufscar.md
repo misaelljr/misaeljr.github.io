@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Experimenting by Test Approaches for SAs (2018 -- current)
+title: Experimenting by Test Approaches for SAs (2018)
 img: "images/ufscar.JPG"
 date: 01-08-2017
 feature-img: "images/dc_ufscar.jpg"
