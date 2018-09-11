@@ -29,7 +29,7 @@ tags: [research, master, icmc, usp]
 
 #### Participants:
 
--- MSc. Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
+-- Phd Student Misael Jr (<b><a href="http://lattes.cnpq.br/7927035309009307">lattes</a></b>) -- It's me :)
 
 -- Prof. Dr. Rafael Oliveira (<b><a href="http://lattes.cnpq.br/0793753941171478">lattes</a></b>)
 
